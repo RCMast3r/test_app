@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "C++ Launch",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/result/bin/test_app",
+      "cwd": "${workspaceFolder}",
+      "sourceFileMap": {
+        "/build/pq06gwyqdknnn03kyyxnccylbi0j6mpc-source": {
+          "editorPath": "/home/ben/dev/test_lib",
+          "useForBreakpoints": true
+        }
+      }
+    }
+  ]
+}
